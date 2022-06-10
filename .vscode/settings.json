@@ -1,0 +1,5 @@
+{
+    "cmake.sourceDirectory": "${workspaceFolder}/web/windows",
+    "avdmanager.sdkPath": "c:\\Users\\rogelio suganob jr\\Desktop\\Being a College Student\\My Documents\\hi_low_cardgame\\lib",
+    "avdmanager.executable": "c:\\Users\\rogelio suganob jr\\Desktop\\Being a College Student\\My Documents\\hi_low_cardgame\\lib\\main.dart"
+}
